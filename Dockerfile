@@ -1,4 +1,4 @@
-FROM amazoncorretto:8-alpine-jdk
+FROM amazoncorretto:9-alpine-jdk
 
 MAINTAINER sansembbb
 
